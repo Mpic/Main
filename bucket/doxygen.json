@@ -12,7 +12,14 @@
     "bin": [
         "doxygen.exe",
         "doxyindexer.exe",
-        "doxysearch.cgi.exe"
+        "doxysearch.cgi.exe",
+        "doxywizard.exe"
+    ],
+    "shortcuts": [
+        [
+            "doxywizard.exe",
+            "Doxywizard Doxygen GUI frontend"
+        ]
     ],
     "checkver": {
         "url": "http://www.doxygen.nl/download.html",
